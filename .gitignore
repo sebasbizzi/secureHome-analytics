@@ -1,0 +1,27 @@
+# Datos y archivos grandes
+data/raw/*
+data/processed/*
+*.db
+*.sqlite
+
+# Tableau
+*.twb~
+*.hyper
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Ambientes virtuales
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
