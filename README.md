@@ -39,7 +39,7 @@ secureHome-analytics/
 
 ## 👤 Author
 **Sebastian Bizzi**
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/sebastianbizzi/)
 - [GitHub](https://github.com/sebasbizzi)
 - Other project: [News Sentiment Analysis](https://github.com/sebasbizzi/Relationship_Between_News_Sentiment_and_Market_Movements)
 
